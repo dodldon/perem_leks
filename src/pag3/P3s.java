@@ -19,7 +19,7 @@ public class P3s {
             System.out.println(i + "и" + a);
 
         }
-        System.out.println(a + "а" + "iвызвать нельзя");
+        System.out.println(a + " а" + " i вызвать нельзя");
 
     }
 
